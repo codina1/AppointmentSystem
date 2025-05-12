@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R2sDSm/DToE=",
+  "success": true,
+  "projectFilePath": "D:\\sources\\Portfolio\\AppointmentSystem\\AppointmentSystem.API\\AppointmentSystem.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\codina\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\codina\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
